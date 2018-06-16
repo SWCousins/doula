@@ -1,0 +1,30 @@
+html {
+    background: linear-gradient(to bottom right, #FFB68F, #FF9391, #FF8F9A) no-repeat;
+}
+
+h1 {
+    font-family: 'Lobster Two', cursive;
+    padding: 20px;
+    font-size: 3em;
+    display: inline-flex;
+    flex-direction: row
+}
+
+h3 {
+    display: inline;
+    padding:  15px;
+    flex-direction: row;
+}
+
+img {
+    border-radius: 25px;
+    flex-direction: row;
+}
+
+.padding {
+    padding: 60px;
+}
+
+.triadic-purple {
+    color: #9591ff;
+}
