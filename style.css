@@ -29,10 +29,22 @@ h3 {
 }
 
 .padding {
-    padding: 60px;
+    padding: 20px;
 
 }
 
 .triadic-purple {
     color: #9591ff;
+    
+}
+
+.opacity {
+    opacity: 0.5;
+}
+
+.clear-bg {
+    background: transparent;
+    font-size: 2.2em;
+    border-radius: 25px;
+    border-width:medium;
 }
